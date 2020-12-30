@@ -1,0 +1,4 @@
+server started on 127.0.0.1 at port 5051...
+recvfrom 192.168.101.7,6915 hello1
+recvfrom 192.168.101.7,6059 hello2
+recvfrom 192.168.101.7,6688 hello3

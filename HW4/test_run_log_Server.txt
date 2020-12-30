@@ -1,0 +1,48 @@
+C:\Users\shenc\OneDrive\桌面\2020 Fall\CSCI_353\HW\HW4>py server.py -p 5060 -ss 127.0.0.1 -pp 10000 -m I agree, cryptography is awesome!
+Type in Host Name: testServer
+server started on 127.0.0.1 at port 5060
+server public key:
+ -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvhDHqzu73/g7xQjIYgqc
+UquQPsRb1kYqqUorIjlY6yqyj8goNKiI0uWmKT/XGWeZkZ278SL6XqPcbp/zQxHR
+Mgv6Q3NMx71jExGBEBSyPpNl1Bj9RpqlrdnkEZ9YOMNQQOFQq3SEcn+QIG4iusxK
+on7eAxxDo3SuLK5tdpU7RsWseUkMnP1ictDuXNPubZZ3jmE7bKt3QgiX2mY6v+s6
+t3gowkBrNJxBjgjITltzX5mgH6mBWmH3xWBWQCq3qUeslwr7dOk9DHViMTpA6552
+je7RdUsxwL21VagUrT+eiYIGnPbh9ExRUsGw+ct86pcDp285VHrnhf5ts5w/vKZh
+5wIDAQAB
+-----END PUBLIC KEY-----
+
+server private key:
+ -----BEGIN RSA PRIVATE KEY-----
+MIIEowIBAAKCAQEAvhDHqzu73/g7xQjIYgqcUquQPsRb1kYqqUorIjlY6yqyj8go
+NKiI0uWmKT/XGWeZkZ278SL6XqPcbp/zQxHRMgv6Q3NMx71jExGBEBSyPpNl1Bj9
+RpqlrdnkEZ9YOMNQQOFQq3SEcn+QIG4iusxKon7eAxxDo3SuLK5tdpU7RsWseUkM
+nP1ictDuXNPubZZ3jmE7bKt3QgiX2mY6v+s6t3gowkBrNJxBjgjITltzX5mgH6mB
+WmH3xWBWQCq3qUeslwr7dOk9DHViMTpA6552je7RdUsxwL21VagUrT+eiYIGnPbh
+9ExRUsGw+ct86pcDp285VHrnhf5ts5w/vKZh5wIDAQABAoIBAHVrmG9JMABmM0a+
+7kzjkT/hjfO5C6ONJb4AfDVgiHaAomABoBUoKZ9hEQ5aymB/iHhVok6O9W6SfRQ6
+7OZ6k2r/y1TwXnbnodWd8sYkgxn1pesqpQ6Ba+nDuwrIDpDC2Um76UKDcW/rLvda
+E0qj+1f4WOBDDeZlp1UjTaz89On7Ej0Kj37ZUx9gOZfDutHjvsW+bsIdxEj0LdPW
+i51LxoUsAfirtqICNxCeiVCCPq7lTdU6mI1pcbBPWwsae5/KhzXJQvSudBixL5cD
+BmnnEj0Jufk3q3IpeHex2fYE6RwkOqitK1/XB7NOfUnWkbpf+djTJ5p4R3sAMJMf
+CUrtaIECgYEA/P26zDfkB68Me3l5bP2kBNxxCNzjitZs/pHOrblIMfrvPEuXRuO5
+9+5PbHtlO2PSbR8CEXBpEtTJ0UeKz9GyPUaBonMQcKMp/poEdpF9Zx9RGYYuGCaP
+o/0pebRMz28Y+6HKIMdzApwM28HvX6WJtwrMITyDkHqfTwrAZihYnxkCgYEAwFN2
+s6oWwynSjib/8iapWgBPEAKTU9HiK2rcCyfFwqxVFOZ2qh9BuxA8Tjkq1HrRL0tC
+14H2ET1D2ITBP2/zeYfFIcig8za6kYTICraCZ/oMTIcny0nSv7+EaXPfPSo1gasN
+eAArQTF7hMoSEFCGA5Cq+3qNjxHMNFa28nQkKP8CgYEA42ysGZ08rfOcgvsGPwYc
+BgqsykzXeB2eSZKFewIOdm+f1FIXobBhoxFl8J1UuXjY1yOC1m545mbHLgzkKkHV
+uuPA8WoCo17qB2gpDvVnB+bNHubSVP+FLOQN/swoKGk0yi/85k6lgvkJThwetZq4
+HAXmzxH5K04wG/wMTUmDsTECgYAwVsoG7kE6XFCnmfXKjx0RmfJFO+B7uMz3zKvx
+wdVa0KWx0xsQNzr2IWaG4qd5MEVTdb8fG3MVciiTSwqnPyQa750EmMCbYK4T1SPS
+TX0JVTeyJGZEGhH2T9SgDJeXb/xy0uNXvfMhN6asAX34y8RjMQFIo8zgoMCKhyEE
+X1yXUQKBgFiUafsBMymm2KvKwsirJIcq7IPpYH5aSHZicAqgPoax39f5qybPDD+4
+13SmNIza8fWJVM13McHDdidqdgIF7p9MNrxW6wCTZ9kfEK8IOv87gpKDWgjk1X9g
+p6GmD8c5Yifb4L+qAL4fQNF8qQWrQKYoavD3ATDOlH6a+Xx4do18
+-----END RSA PRIVATE KEY-----
+
+sending certificate request to CA: 127.0.0.1 port 10000
+received client certificate: CN=Client,O=USC,L=Los Angeles,ST=California,C=US
+received message from client: Cryptography is awesome!
+integrity check: calculated = b'\xc4\xb3\xe2\xcb\xdfK\xee"\xf7_\x82#\x95\x80\x8fg\xd4o\xdd\x99is\xe2"\xae\xe0\xae2p\xdaP\xdd' received = b'\xc4\xb3\xe2\xcb\xdfK\xee"\xf7_\x82#\x95\x80\x8fg\xd4o\xdd\x99is\xe2"\xae\xe0\xae2p\xdaP\xdd'
+sending message to client: I agree, cryptography is awesome!

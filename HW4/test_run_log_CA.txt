@@ -1,0 +1,49 @@
+C:\Users\shenc\OneDrive\桌面\2020 Fall\CSCI_353\HW\HW4>py ca.py -p 10000
+ca started on 127.0.0.1 at port 10000
+
+ca public key:
+ -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs1yOFQYq8FLztxdnK6/b
+vgK8qC7/Ykrp+ymfdfpZiZpPLYEvc0VX4QIf2bdTLaIM/R8tNv17JVvxFvswnKmV
+BZ3aBHJqEXTyKfbvHiHDt7Gltqyys9gGBeJICzZwPBmy++pfAeAC7AHjmqfjvLHM
+zNR7Sm1uVSD2hByiA9zVf8ssqx9b/e5l+Q3Hk/ZHRxoEL0oAjdWfgjg815leSq4V
+kkFN5RDsbNJmKhIev8lIkfo/6CfI30z7MGAun5rg1XByLhC0Ptx3Lt5NVFfYLPbH
+QZc+KjcIZ1Faf652RtG2Wb1qMcpi9bIdO8lFYKw+Y2UF7NzZk8DBpBx5XcegUpK4
+JwIDAQAB
+-----END PUBLIC KEY-----
+
+ca private key:
+ -----BEGIN RSA PRIVATE KEY-----
+MIIEpAIBAAKCAQEAs1yOFQYq8FLztxdnK6/bvgK8qC7/Ykrp+ymfdfpZiZpPLYEv
+c0VX4QIf2bdTLaIM/R8tNv17JVvxFvswnKmVBZ3aBHJqEXTyKfbvHiHDt7Gltqyy
+s9gGBeJICzZwPBmy++pfAeAC7AHjmqfjvLHMzNR7Sm1uVSD2hByiA9zVf8ssqx9b
+/e5l+Q3Hk/ZHRxoEL0oAjdWfgjg815leSq4VkkFN5RDsbNJmKhIev8lIkfo/6CfI
+30z7MGAun5rg1XByLhC0Ptx3Lt5NVFfYLPbHQZc+KjcIZ1Faf652RtG2Wb1qMcpi
+9bIdO8lFYKw+Y2UF7NzZk8DBpBx5XcegUpK4JwIDAQABAoIBADaz/9GBtA7f/dzV
+km3MkOR+yTMyQkmkN4CWzT+aPzysh4GFaQdrGsZRc41fUEsWpYd9vriKzsgyJnGv
+4r+lKQIxhpDcpGT2mfUajwtNmPepgrUYLtiTBiM9RGPHEqwB2ojijl9wBvQcD2LX
+2alvQNsn4wJsJb5o80aPxQoQjD0RI54EQ1bKZ+bI5zBBz3bxfcwGLaITft8w/Y8H
+Ul7uvdYj6vVeqc2mSat1yS3wAMqnH9fMrK0QOJhw3tr6jzD7ifGZ60uRXCm6QCWG
+Ol+Bo772Vi66ldYkyjnCWtTLfdvw8vfgXdYnTHmgnTtAlK72WYZh3C/Kf+UMN6Bx
+0r2zuKECgYEA3mOsi03o1LRgI1Tp39UvEcxwvur808+ONNIPL+delf4wjqnGxgZy
+VjkIXeDHTXd2Suya7xt1RTu3eLX8PXzrOgbqszfIfXmnb5JLh/+njaQhM/UBclAJ
+aiLrydNdUEYXCOGRsFNkviWbV7nRFIdVP/0aL2kRZHG8qQyptkXV/fUCgYEAznge
+hfQ9HkqPPIpYR8ZVci/6EvYvT/D2aCFYxt96x0pFS7CWVzgCoEmSYKnQqXWAmFHr
+KQxFehwWgdAWsfPRKDSft34UIe+JBC8WgmmBY7gTDCQWorxQFHKGrMTu24E/a5mk
+xdAwwEJtxsT04dXFyi3pQoF8mTGauG9TDQvi0CsCgYBEdC/vbVrm5mLVXVTkJk3n
+z6NA0TpjxHbEgYhVOYXe67BsqYva9q8JJWMS6pbOnKAX7f6+7RfK6NfP20y6bJJH
+eUuTQO+A2AqXCFQhl6suqT/jK153nnVXa0pjBKGrjPeYLz7WJMVU1mSbu0HFbObr
+3G/L+i51WaE19ATla1e0ZQKBgQC6GTzx4m5AYlXu7Ieb0iHsNWBDPRDyDjAbNYtu
+Xbqt7Ly+92DbJon/bbD5XbbNNzL8mEHNEtmAsdZ7lVMPfMNWaPBZFNQSrnQiiErS
+q0RL3HuWouSgM/o+I+hNy4e75CiE1MzW28tFT9rgoWBUOjn3/R/VqR7kefiKKxWB
+megLVwKBgQCR7KiX9DVmd12W3Uou9n1tHxZiZAbQgzsKu49V0xeZfy6/89HSDbg0
+bbaK8DoeBN3oazlokxK2/XkvUDTD3ukYQaz6605Btg6K7fxSJ29bA1+Au3su6dfi
+siL5LN/qeNM0SIuqkN6NrcNp2tlROvecXvrhc6ZVw2+FJyHqCEsDGw==
+-----END RSA PRIVATE KEY-----
+
+ca certificate: CN=Trusted CA,O=USC,L=Los Angeles,ST=California,C=US
+
+received certificate request from Server host 127.0.0.1 port 63659
+received certificate request from Client host 127.0.0.1 port 58326
+sending certificate to Client
+sending certificate to Server

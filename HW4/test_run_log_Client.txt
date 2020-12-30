@@ -1,0 +1,50 @@
+C:\Users\shenc\OneDrive\桌面\2020 Fall\CSCI_353\HW\HW4>py client.py -s 127.0.0.1 -p 5060 -ss 127.0.0.1 -pp 10000 -m Cryptography is awesome!
+Type in Host Name: testClient
+client started on 127.0.0.1 at port 50505
+client public key:
+ -----BEGIN PUBLIC KEY-----
+MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5+9ruX7ag1CEzD1C5tgl
+arzBygGpkSIaceNYiQnVDe7+xrQg5KYxpEiGJrPuxZvdBcnmc3uz5jmqXP3/44aJ
+YRG7DD3jlyQF3TpTXskFwzY/fp6u+4ujUuRLWA+VEf+GSzTv/FHo1rYx17CYuMSr
+xH50XBgBGABZW9TDavfs1oPpLRYrwka/7g+q2kgCa0Jfn+OpOunyvFq1orfUbzX5
+h7Kbo0L/SFoZLza3XzhQ2wHRtlL/erJTPE3jR0/j/hAB73X0FZuTOIm/OPwFZ46j
+z6wQZKOuaMLmeQLHIu9kwFTOvbTkQc8zkeBqstodoTyzHgTFW11qOB189xKwZJW+
+BwIDAQAB
+-----END PUBLIC KEY-----
+
+client private key:
+ -----BEGIN RSA PRIVATE KEY-----
+MIIEpAIBAAKCAQEA5+9ruX7ag1CEzD1C5tglarzBygGpkSIaceNYiQnVDe7+xrQg
+5KYxpEiGJrPuxZvdBcnmc3uz5jmqXP3/44aJYRG7DD3jlyQF3TpTXskFwzY/fp6u
++4ujUuRLWA+VEf+GSzTv/FHo1rYx17CYuMSrxH50XBgBGABZW9TDavfs1oPpLRYr
+wka/7g+q2kgCa0Jfn+OpOunyvFq1orfUbzX5h7Kbo0L/SFoZLza3XzhQ2wHRtlL/
+erJTPE3jR0/j/hAB73X0FZuTOIm/OPwFZ46jz6wQZKOuaMLmeQLHIu9kwFTOvbTk
+Qc8zkeBqstodoTyzHgTFW11qOB189xKwZJW+BwIDAQABAoIBAH/p20+CVqD1V0gM
+wUjvDDPBxl7Sa+JPHKaS69EoSwhUNs7/qORxhA9GsDXIJnd1boAyyZYHM0BVrU98
+BhRFrp6KWM53k31XsKRB9pjf5P20fXAns/mnGXwtzB/U+DHk6vuvRmuyAOfps7Nx
+AcllLhZAZ4wi8Pd7ucybmurzsPrc2IYrxmZI6UMbWD1c6TrNVeOt52tLpgofIMou
+btxuzAjG2iLAcY/1Cs7ruOuB4nhJ7sFwyfCUpJ3dorpZKpUfBCSboFr27bCkzn2G
+WLu4RcgQPsV/OgJG1zKdvizKDUutQHpBWIof2158BGeEgSlVATqZ15DKuq30Jmsm
+O/51lYECgYEA89bW04q9/uON1JJKWbkhXCJGUwq04rlhAE8ZUzHLjdedcPJ+GQYf
+bJ5hvBu3qOf4h5r14YSjF3esccJ+ht0ezu2O7zZB2KhxxHpspzcsDda5DU2oHZQf
+uhwbAzWIindijhk2TXYTVXNCyyBk5QFrJ7raFMp+fvQAi8JhX3Z1GisCgYEA84CZ
+sEFl93cKFgVu0sxCqoYWSeJU5bNikcpGgEGgE5TARB7YeVneAwEXG4KMOr7uuL6N
+4RiiLbK1nGmJJCN7DK2XNBUDxHtWbWmITCfg7pb+hdNXlrZ8sG6pi2rLL83qHtGV
+r/xnZun7GHbbYN6rgYfrNnCrnXbHAuOweOaGCZUCgYEA2n6Hb3UiPNTg0Tro/q8C
+MpHP3Dd60LJ2NhWqxr6W/JnZTU0tKvUukWD2iN15XBPIwpJbg2Ib1jp5PlKel/Bp
+29hIvRcsN5zwnLNqyweIJTpkBYSxgRequlTW67A7kn/ZwyTaYNzOBELM9kEnx4DW
+6Pno0rqEUPQJzTI3mJgH5JMCgYEAulQMxq+0fAGOKT2tCQceeGg0hAL6He7/nTng
+auJMwM8RtM65rVpUJY5fBUEHVyileZ7u6HE2IKvghrjHJW01CoWG72apRF9wyjZ4
+AnZ9i3TlfLg1DPHFRijX+gQVSRZTcZPE7C7DXR/scVL6Gg0pxeug1D6xQ8QREyfx
+8QHNTWUCgYBSXr+ch4w3t6yyK1h8K+2BhSywgoj0iL9uSRXKlUY45yTkmxAmzNLp
+u6SAZYvwCtjehDUB1BhRiSsnP8dQAyxA7QcK8dy7MXs8NRISaPZpC85USz3WezXh
+ZsN3T4ZbItFLx5YFli/V+M+TvNpBL8pI0xZze5WU2lC3MRch+eU75w==
+-----END RSA PRIVATE KEY-----
+
+sending certificate request to CA: 127.0.0.1 port 10000
+received server certificate: CN=Server,O=USC,L=Los Angeles,ST=California,C=US
+generated AES key: b'0\x03\xabe\xe7\x84\x17E\xd5\xe8\xe8\xa3\xf5\x82\xc9x'
+message signature: b"\x07\x90\xf8`\x06\x84\xee\x19hYQ\x8c\xeb\xa1\n\xbbU\xfd\xbb\xf7\x80\x89[`_\x05\xfd\x1e\x9cY\xb2\r\x1d\x1e\xb4\x1a\x8b[e\xf4\x04\xf1\xe7\xb1\xb4W\x15\xa3\xa3\t\x06\xfe\x01\xcf\xcd%o-@\xd3DqQ\xa9[`\xd1\x85\x1a\x93\xea\xfe\xdfaGa\xe4\xd6\xaf\x89~ssH\x03\xfa\xe7\x9e:5\xd1\xcaP\x12fZy\xf8n>\x14\x06\x1f\xa7\xb2\xdf*\x9e\xf3\xd6\xbc\x80\\@[./\xf9J\x99X\xfe\xafl\xbaF[\xb1\x0f\xfd\x91\n\x03l\x9f\x06Q!=\x941\x84\x86\x01\x85W\xd6:Uh\xc8\x06oNO\xd4\xd1\xc3\xfc\x06'\x90:b\xe1\t\xa1O?#\xc2\x8a9\x8exG\x00\x1c]\xef\x96\x99\x11\xad`\x8b\xdcAX\xba\xd0\x90\xd6\x8f\xc3\xc9\x80d\xf6\xeb\x10\x9c\x19\xdd\xc8%\x16\xa5k\xd2f\xb5XR\xd5\x83\xd6\xb7`\xd8\x1b\xcb\x91y\xf5O.\\8\x1dL\xc2\xcaO \xa0\xa26k\x9eI\xf9\x82y\xdes\xe3\xee\xd5\xbeu\x93\x98>Na"
+encrypted message: b'q\xad\x12\xf0\xae\xf9\x9d\xab#\xed-s\x01z\xd5\x9a\xd2\xff{*\x8bL\xccp)'
+sending encrypted message to server
+received server response: I agree, cryptography is awesome!
